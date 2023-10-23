@@ -24,7 +24,7 @@ I am a passionate Software Engineer, with a focus on Web application development
 What makes me unique is my collaborative and proactive approach to teamwork, problem-solving, and innovation. I've won awards in the most prestigious hackathons in the world such as AI Hack Tunisia, Junction, and HackUPC, showcasing my creativity and technical prowess. 
 I'm committed to learning and open to new opportunities!  
 
-You can check my portfolio from [Here.](linkedin.com/in/merouanekanoune/).
+You can check my portfolio from ([Here.](https://merouanekanoune.me/))
   
 
 <br/>  
