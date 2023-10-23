@@ -109,8 +109,6 @@ You can check my portfolio from [Here.](https://merouanekanoune.me/)
 
 ## Github Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mer1knn&show_icons=true&locale=en&layout=compact" alt="mer1knn" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mer1knn&show_icons=true&locale=en" alt="mer1knn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mer1knn&" alt="mer1knn" /></p>
