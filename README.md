@@ -100,18 +100,3 @@ You can check my portfolio from [Here.](https://merouanekanoune.me/)
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
 </div>  
-
-<br/>  
-
-###
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mer1knn&&style=flat-square)  
-
-<br/>  
-<br />
-
