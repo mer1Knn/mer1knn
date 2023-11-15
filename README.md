@@ -103,14 +103,6 @@ You can check my portfolio from [Here.](https://merouanekanoune.me/)
 
 <br/>  
 
-
-## Github Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mer1Knn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mer1Knn&locale=en&mode=daily&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 <br/>  
 
