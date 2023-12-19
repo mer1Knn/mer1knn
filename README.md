@@ -15,13 +15,13 @@
 
 
 ### Glad to see you here!  
-A Full <b> Stack Software Engineer </b> with a focus on Web Applications Development, Data Science, and Cloud Computing. I hold a Master's in Information Technology from M'Hamed Bougara University of Boumerdes. With over 3 years of experience including developing streamlined web apps at ORNIDEX, building a B2B sales tool at Djezzy, leading a dynamic team at GO Platform, and multiple freelancing projects. I'm skilled in Node.js, Javascript, Typescript, Next.js, React, and more, with expertise in CI/CD, Google Cloud Platform, and agile methodologies. 
+I am a <b>Software Engineer </b> with a focus on Web Applications Development, Data Science, and Cloud Computing. I hold a Master's in Information Technology from M'Hamed Bougara University of Boumerdes. With over 3 years of experience including developing streamlined web apps at Ornidex, building a B2B sales tool at Djezzy, leading a dynamic team at GO Platform, and multiple freelancing projects. I'm skilled in Node.js, Javascript, Typescript, Next.js, React, and more, with expertise in CI/CD, Google Cloud Platform, and agile methodologies. 
 
 What makes me unique is my collaborative and proactive approach to teamwork, problem-solving, and innovation. I've won awards in the most prestigious hackathons in the world competing against +1200 participants, showcasing my creativity and technical prowess. 
 
 I'm committed to learning and open to new opportunities, so let's connect and explore potential collaborations!  
 
-You can check my portfolio from [Here.](https://merouanekanoune.me/)
+You can check my portfolio [Here.](https://merouanekanoune.me/)
   
 
 <br/>  
