@@ -21,7 +21,7 @@ What makes me unique is my collaborative and proactive approach to teamwork, pro
 
 I'm committed to learning and open to new opportunities, so let's connect and explore potential collaborations!  
 
-You can check my portfolio [Here.](https://merouanekanoune.me/)
+You can check my portfolio [Here.](https://mer1knn.github.io/)
   
 
 <br/>  
