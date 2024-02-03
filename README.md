@@ -15,11 +15,16 @@
 
 
 ### Glad to see you here!  
-I am a <b>Software Engineer </b> with a focus on Web Applications Development, Data Science, and Cloud Computing. I hold a Master's in Information Technology from M'Hamed Bougara University of Boumerdes. With over 3 years of experience including developing streamlined web apps at Ornidex, building a B2B sales tool at Djezzy, leading a dynamic team at GO Platform, and multiple freelancing projects. I'm skilled in Node.js, Javascript, Typescript, Next.js, React, and more, with expertise in CI/CD, Google Cloud Platform, and agile methodologies. 
+Hello! I'm Merouane, a Software Engineer with over 4 years of experience in Full-Stack Engineering. Armed with a Master’s degree in Software Engineering, I specialize in crafting web-based applications.
+My expertise spans project management, Full-Stack engineering, and a proven track record in winning Global Hackathons Globally, competing against +1200 participants. 
 
-What makes me unique is my collaborative and proactive approach to teamwork, problem-solving, and innovation. I've won awards in the most prestigious hackathons in the world competing against +1200 participants, showcasing my creativity and technical prowess. 
+As a freelancer, I manage entire project lifecycles, achieving a user base of over 5000 within the initial launch week in most of my projects such as Global Work Algeria. 
+At ORNIDEX and DJEZZY, I conducted comprehensive analyses, formulated design parameters, and developed web applications with matching algorithms. I have successfully led a team of 4 developers at GO PLATFORM, continuously integrating and deploying new features for a platform with over 20,000 users. 
 
-I'm committed to learning and open to new opportunities, so let's connect and explore potential collaborations!  
+Alongside professional roles, I actively contribute to the tech community as a coach, a speaker, and as a former Community Lead at Google Developers Student Club and a former Organizer at Google Developers Group Algiers. 
+
+My commitment to innovation has been acknowledged through various awards, including winning prizes in AI Hack Tunisia, the NASA Space App Challenge Algiers Hackathon, and the JunctionX Algiers Hackathon. I hold professional certifications in Meta Back-End and Front-End Development and actively pursue my passion for technology. 
+
 
 You can check my portfolio [Here.](https://mer1knn.github.io/)
   
