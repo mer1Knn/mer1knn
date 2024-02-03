@@ -15,10 +15,10 @@
 
 
 ### Glad to see you here!  
-Hello! I'm Merouane, a Software Engineer with over 4 years of experience in Full-Stack Engineering. Armed with a Master’s degree in Software Engineering, I specialize in crafting web-based applications.
+Hello! I'm Merouane, a Software Engineer with over 4 years of experience in Full-Stack Engineering. Armed with a Master’s degree in Software Engineering, I specialize in crafting web-based applications. </br>
 My expertise spans project management, Full-Stack engineering, and a proven track record in winning Global Hackathons Globally, competing against +1200 participants. 
 
-As a freelancer, I manage entire project lifecycles, achieving a user base of over 5000 within the initial launch week in most of my projects such as Global Work Algeria. 
+As a freelancer, I manage entire project lifecycles, achieving a user base of over 5000 within the initial launch week in most of my projects such as Global Work Algeria. </br>
 At ORNIDEX and DJEZZY, I conducted comprehensive analyses, formulated design parameters, and developed web applications with matching algorithms. I have successfully led a team of 4 developers at GO PLATFORM, continuously integrating and deploying new features for a platform with over 20,000 users. 
 
 Alongside professional roles, I actively contribute to the tech community as a coach, a speaker, and as a former Community Lead at Google Developers Student Club and a former Organizer at Google Developers Group Algiers. 
