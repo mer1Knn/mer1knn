@@ -15,32 +15,10 @@
 
 
 ### Glad to see you here!  
-Hello! I'm Merouane, a Software Engineer with over 4 years of experience in Full-Stack Engineering. Armed with a Master’s degree in Software Engineering, I specialize in crafting web-based applications. </br>
-My expertise spans project management, Full-Stack engineering, and a proven track record in winning Global Hackathons Globally, competing against +1200 participants. 
-
-As a freelancer, I manage entire project lifecycles, achieving a user base of over 5000 within the initial launch week in most of my projects such as Global Work Algeria. </br>
-At ORNIDEX and DJEZZY, I conducted comprehensive analyses, formulated design parameters, and developed web applications with matching algorithms. I have successfully led a team of 4 developers at GO PLATFORM, continuously integrating and deploying new features for a platform with over 20,000 users. 
-
-Alongside professional roles, I actively contribute to the tech community as a coach, a speaker, and as a former Community Lead at Google Developers Student Club and a former Organizer at Google Developers Group Algiers. 
-
-My commitment to innovation has been acknowledged through various awards, including winning prizes in AI Hack Tunisia, the NASA Space App Challenge Algiers Hackathon, and the JunctionX Algiers Hackathon. I hold professional certifications in Meta Back-End and Front-End Development and actively pursue my passion for technology. 
-
+Hello! I'm Merouane, I am an experienced Software Engineer with extensive expertise in driving project lifecycles and building innovative solutions. I have a proven track record of success, including winning multiple international hackathons and leading teams of developers to achieve business goals. With a Master’s in Software Engineering, I am actively involved in the tech community as a speaker, coach, and former Google Developers Student Club lead. I am passionate about leveraging cutting-edge technologies to solve complex problems and deliver high-quality software solutions.
 
 You can check my portfolio [Here.](https://mer1knn.github.io/)
   
-
-<br/>  
-
-
-## Rapidfire  
-
-- 🔭 I’m currently working on web development projects and exploring new technologies to enhance my skills and knowledge.
-- 🌱 I’m currently learning about machine learning and AI to expand my expertise in these areas.
-- 🤝🏻 I’m looking to collaborate on innovative software projects that leverage cutting-edge technology to make a positive impact.
-- 💬 Ask me about software development, full-stack development, Data science, and my experiences in hackathons and project management.
-- 📫 How to reach me: You can reach out to me via email at kanounemerouane@gmail.com or connect with me on [LinkedIn.](https://www.linkedin.com/in/merouanekanoune/)
-- ⚡ Fun fact: I enjoy volunteering for various tech and community organizations and have had the opportunity to participate in several hackathons and win prizes for my work.
-
 <br/> 
 
 
