@@ -38,9 +38,6 @@ My achievements include winning international hackathons, leading successful tec
 - **Co-founder & Tech Lead** of ALID and O’KLA, successful startups in logistics and culinary tech
 - **Freelance Full Stack Engineer** delivering custom solutions across various industries with cutting-edge technologies
 
-<br/> 
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
