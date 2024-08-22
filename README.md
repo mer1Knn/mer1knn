@@ -14,11 +14,30 @@
 
 
 
-### Glad to see you here!  
-Hello! I'm Merouane, I am an experienced Software Engineer with extensive expertise in driving project lifecycles and building innovative solutions. I have a proven track record of success, including winning multiple international hackathons and leading teams of developers to achieve business goals. With a Master’s in Software Engineering, I am actively involved in the tech community as a speaker, coach, and former Google Developers Student Club lead. I am passionate about leveraging cutting-edge technologies to solve complex problems and deliver high-quality software solutions.
+### **Full Stack Software Engineer & Tech Lead**  
+I am an experienced Full Stack Software Engineer and Tech Lead with over 4 years of experience in driving project lifecycles and delivering innovative solutions. I specialize in developing scalable web and mobile applications and leading technical teams to achieve business objectives. My expertise spans a wide range of technologies, including React, Node.js, Django, and cloud services.
 
-You can check my portfolio [Here.](https://mer1knn.github.io/)
-  
+My achievements include winning international hackathons, leading successful tech startups, and contributing to diverse projects that enhance user experience and operational efficiency. I am also actively involved in the tech community as a speaker, coach, and former Google Developers Student Club lead.
+
+## Core Competencies:
+- Full Stack Development
+- Technical Leadership
+- Scalable Web & Mobile Applications
+- Cloud Computing & DevOps
+- Data Science & Machine Learning
+- Agile Methodologies
+
+## Achievements:
+- **1st Prize Winner** at NASA Space App Challenge, Algiers (October 2022)
+- **2nd Prize Winner** at AI Hack Tunisia (August 2022)
+- **Terra Challenge Prize Winner** at Hack !T (May 2022)
+- **2nd Prize Winner** at Flutter Festival (March 2022)
+- **1st Prize Winner** at JunctionX Algiers (December 2021)
+- **Participant with Travel Grant Award** at HackUPC, Barcelona (May 2023)
+- **Participant with Travel Grant Award** at Junction, Helsinki (November 2022)
+- **Co-founder & Tech Lead** of ALID and O’KLA, successful startups in logistics and culinary tech
+- **Freelance Full Stack Engineer** delivering custom solutions across various industries with cutting-edge technologies
+
 <br/> 
 
 
