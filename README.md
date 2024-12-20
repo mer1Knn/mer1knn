@@ -1,9 +1,6 @@
 
-## Hey 👋🏻, I'm Merouane!  
+# Hey 👋🏻, I'm Merouane!  
   
-<a href="https://twitter.com/mer1knn" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/merouanekanoune" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -14,29 +11,59 @@
 
 
 
-### **Full Stack Software Engineer & Tech Lead**  
-I am an experienced Full Stack Software Engineer and Tech Lead with over 4 years of experience in driving project lifecycles and delivering innovative solutions. I specialize in developing scalable web and mobile applications and leading technical teams to achieve business objectives. My expertise spans a wide range of technologies, including React, Node.js, Django, and cloud services.
+# **Software Engineer**
 
-My achievements include winning international hackathons, leading successful tech startups, and contributing to diverse projects that enhance user experience and operational efficiency. I am also actively involved in the tech community as a speaker, coach, and former Google Developers Student Club lead.
+Hi there! I’m a **Software Engineer** with over 4 years of experience turning big ideas into real-world solutions. Whether it’s building sleek, scalable apps or leading a team of talented developers, I thrive on solving complex problems and creating impactful technology.
 
-## Core Competencies:
-- Full Stack Development
-- Technical Leadership
-- Scalable Web & Mobile Applications
-- Cloud Computing & DevOps
-- Data Science & Machine Learning
-- Agile Methodologies
+I’ve worn many hats over the years—startup co-founder, hackathon enthusiast, mentor, and community leader. Along the way, I’ve worked with cutting-edge tools, while diving deep into cloud computing, AI/ML, and DevOps. What keeps me going? The joy of crafting tech that makes life easier, smarter, and a little more exciting.
 
-## Achievements:
-- **1st Prize Winner** at NASA Space App Challenge, Algiers (October 2022)
-- **2nd Prize Winner** at AI Hack Tunisia (August 2022)
-- **Terra Challenge Prize Winner** at Hack !T (May 2022)
-- **2nd Prize Winner** at Flutter Festival (March 2022)
-- **1st Prize Winner** at JunctionX Algiers (December 2021)
-- **Participant with Travel Grant Award** at HackUPC, Barcelona (May 2023)
-- **Participant with Travel Grant Award** at Junction, Helsinki (November 2022)
-- **Co-founder & Tech Lead** of ALID and O’KLA, successful startups in logistics and culinary tech
-- **Freelance Full Stack Engineer** delivering custom solutions across various industries with cutting-edge technologies
+---
+
+## 🚀 **What I’m Great At**
+- **Building Things That Work:** From responsive websites to complex mobile apps, I make sure every project delivers on its promise.  
+- **Leading Teams:** I love empowering people to do their best work and making sure we all hit our goals together.  
+- **Harnessing the Cloud:** AWS, Azure, DevOps pipelines—you name it, I’ll make it sing.  
+- **Bringing Data to Life:** AI and machine learning aren’t just buzzwords for me; they’re tools I use to create smarter systems.  
+- **Keeping Things Agile:** Iterative, user-focused, and always improving—that’s my style.
+
+---
+
+## 🌟 **Highlights from the Journey**
+- 🏆 **Hackathon Successes:**  
+  - **1st Place** | NASA Space Apps Challenge, Algiers (2022).  
+  - **2nd Place** | AI Hack Tunisia (2022).  
+  - **Terra Challenge Winner** | Hack !T (2022).
+  - **2nd Place** | Flutter Festival (2022).
+  - **1st Place** | JunctionX Algiers (2021). 
+
+- 🌍 **Global Representation:**
+  - Volunteered at **Slush**, Helsinki (2024).
+  - Competed at **Junction**, Helsinki (2024).
+  - Volunteered at **Tonic**, Helsinki (2024).
+  - Volunteered at **Nordeep**, Helsinki (2024).
+  - Represented at **Mediterranean Youth Building Inclusive Entrepreneurial Ecosystems**, Helsinki (2024).  
+  - Competed at **HackUPC**, Barcelona (2023).  
+  - Competed at **Junction**, Helsinki (2022).    
+
+- 🛠 **Startup Leadership:**  
+  - Co-founded *ALID*, a logistics tech startup.  
+  - Co-founded *O’KLA*, a culinary tech platform.  
+
+- 💡 **Community Impact:**  
+  - Served as Community Lead for **GDSC University of Boumerdes**.  
+  - Organized tech events with **GDG Algiers**.
+  - Volunteered at **AIESEC**
+
+---
+
+## 🌐 **Freelancing with a Purpose**
+When I’m not competing or building startups, I work as a Freelance **Full Stack Engineer**, helping clients bring their visions to life. I’ve tackled projects across industries, blending creativity with tech to create custom solutions that deliver real value.
+
+---
+
+Tech isn’t just what I do—it’s how I connect with the world and make a difference. If you’re looking for someone who brings energy, expertise, and a love for innovation to every project, let’s chat!
+
+---
 
 ## Languages and Tools  
 <div align="center">  
