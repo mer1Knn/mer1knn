@@ -46,8 +46,9 @@ I’ve worn many hats over the years—startup co-founder, hackathon enthusiast,
   - Competed at **Junction**, Helsinki (2022).    
 
 - 🛠 **Startup Leadership:**  
-  - Co-founded *ALID*, a logistics tech startup.  
-  - Co-founded *O’KLA*, a culinary tech platform.  
+  - Chief Technology Officer @ *Xoyox - Communication, Events, & Digital Solutions*
+  - Co-founded & Chief Technology Officer @  *ALID*, a logistics tech startup.
+  - Co-founded & Chief Technology Officer @  *O’KLA*, a culinary tech platform.  
 
 - 💡 **Community Impact:**  
   - Served as Community Lead for **GDSC University of Boumerdes**.  
