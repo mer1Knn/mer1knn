@@ -37,6 +37,8 @@ I’ve worn many hats over the years—startup co-founder, hackathon enthusiast,
   - **1st Place** | JunctionX Algiers (2021). 
 
 - 🌍 **Global Representation:**
+  - Judged at **HackUPC**, Barcelona (2025).
+  - Mentored at **HackUPC**, Barcelona (2025).
   - Volunteered at **Slush**, Helsinki (2024).
   - Competed at **Junction**, Helsinki (2024).
   - Volunteered at **Tonic**, Helsinki (2024).
@@ -45,7 +47,8 @@ I’ve worn many hats over the years—startup co-founder, hackathon enthusiast,
   - Competed at **HackUPC**, Barcelona (2023).  
   - Competed at **Junction**, Helsinki (2022).    
 
-- 🛠 **Startup Leadership:**  
+- 🛠 **Startup Leadership:**
+  - Partner & Chief Technology Officer @  *XPO Concept*.  
   - Co-founded & Chief Technology Officer @  *ALID*, a logistics tech startup.
   - Co-founded & Chief Technology Officer @  *O’KLA*, a culinary tech platform.  
 
